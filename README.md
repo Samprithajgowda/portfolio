@@ -1,90 +1,49 @@
-# Project 3D - Portfolio
+# Sampritha J Gowda - 3D Portfolio
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
-</p>
+A highly interactive, modern 3D developer portfolio showcasing my skills, projects, and experience as a Machine Learning Engineer and Full Stack Developer. Built using cutting-edge web technologies to provide an engaging and dynamic user experience.
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+## 🌟 Features
 
-Work done on it other than the tutorial:-
-- Removed unused CSS.
-- Removed Extra Animations.
-- Made UI Faster.
-- Added a Resume Button (Where you can put a link to your resume).
-- Enhanced Visibility and solved Responsive UI Problems.
+- **Immersive 3D Graphics**: Built with Three.js and React Three Fiber for interactive 3D models.
+- **Modern UI/UX**: Designed using Tailwind CSS for responsiveness, clean layouts, and stunning visual aesthetics.
+- **Fluid Animations**: Smooth page transitions and element animations powered by Framer Motion.
+- **Projects Showcase**: Interactive display of advanced projects like Gesture Control using Jetson Nano, Facial Emotion Recognition System, AI Study Planner, and Scribble Clone.
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+## 🛠️ Technologies Used
 
-## :star: Give A Star
+- **Next.js 14** (React Framework)
+- **Three.js** & **React Three Fiber** (3D Rendering)
+- **Tailwind CSS** (Styling)
+- **Framer Motion** (Animations)
+- **TypeScript** (Type Safety)
 
-You can also give this repository a star to show more people and they can use this repository.
+## 🚀 Getting Started
 
-# Getting Started
+To run this project locally:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Samprithajgowda/portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-Prerequisites
-Before you start, make sure you have the following software installed on your computer:
+## 🤝 Connect With Me
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+- [LinkedIn](https://www.linkedin.com/in/sampritha-j-gowda/)
+- [GitHub](https://github.com/Samprithajgowda)
+- [LeetCode](https://leetcode.com/u/Sampritha_J_Gowda/)
 
-
-## ℹ️ How to use this Repository?
-
-1. Clone the repository to your local machine
-
-```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
-
-```
-2. Navigate to the project directory
-
-```bash
-  cd Project_3DPortfolio
-```
-3. Install the necessary dependencies
-```bash
-  npm install
-```
-
-4. Start the development server
-```bash
-  npm run dev
-```
-
-The website should now be up and running on http://localhost:3000.
-
-## 🏠 Built With:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,threejs,tailwind,netlify)](https://skillicons.dev)
-
-## 🛠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs)](https://skillicons.dev)
-
-## 🚀 About Me
-Specializations:
-- UI/UX Design.
-- Web Development
-
-## 🙋‍♂️ Connect With Me
-
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
-
-## 🗒️ Authors
-- Om Patel
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
-</p>
+---
+*Crafted with ❤️ by Sampritha J Gowda*

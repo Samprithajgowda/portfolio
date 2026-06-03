@@ -54,13 +54,12 @@ const About = () => {
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-[3xl] leading-[30px]"
 			>
-				Dynamic Full-Stack Developer with a passion for crafting innovative web
-				applications. Proven expertise in React, Next.js, Node.js, and Python.
-				Skilled in UI/UX design and DevOps (Docker). Proven ability to deliver high-quality,
-				scalable solutions, as demonstrated by a strong portfolio of full-stack
-				Next.js projects and modern UI/UX designs. Eager to leverage my
-				technical prowess and problem-solving abilities to contribute to
-				cutting-edge projects and drive innovation.
+				Computer Science (Data Science) student working with Python, SQL, and GitHub.
+Coursework includes data structures, databases, and machine learning.
+Work includes data analysis, basic model building, and backend tasks.
+Seeking opportunities to apply skills in real-world projects and continue learning.
+
+
 			</motion.p>
 			<div className="mt-20 flex flex-wrap gap-10">
 				{services.map((service, index) => (

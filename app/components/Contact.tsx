@@ -29,16 +29,16 @@ const Contact = () => {
 		setLoading(true);
 		emailjs
 			.send(
-				"service_91ssn8g",
-				"template_jjegxdr",
+				"service_e1tmjhj",
+				"template_qkqzl24",
 				{
 					from_name: form.name,
-					to_name: "Om Patel",
+					to_name: "Sampritha J Gowda",
 					from_email: form.email,
-					to_email: "omunite21@gmail.com",
+					to_email: "samprithajgowda@gmail.com",
 					message: form.message,
 				},
-				"VeFeVdEHL9F9_i6xp",
+				"y6W6-hM4IQFyQF3F8",
 			)
 			.then(() => {
 				setLoading(false);
