@@ -2,6 +2,8 @@
 
 > A highly interactive, modern 3D portfolio showcasing my skills, projects, and experience as a **Machine Learning Engineer** and **Full Stack Developer**. Built with cutting-edge web technologies to deliver an immersive and dynamic user experience.
 
+🌐 **Live Demo:** [portfolio-ch28.vercel.app](https://portfolio-ch28.vercel.app/)
+
 ---
 
 ## ✨ Features
@@ -39,22 +41,18 @@
    ```bash
    git clone https://github.com/Samprithajgowda/portfolio.git
    ```
-
 2. **Navigate to the project directory**
    ```bash
    cd portfolio
    ```
-
 3. **Install dependencies**
    ```bash
    npm install
    ```
-
 4. **Start the development server**
    ```bash
    npm run dev
    ```
-
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
